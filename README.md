@@ -1,1 +1,1 @@
-# effective-couscousJust an example repo
+# effective-couscous Just an example repo
